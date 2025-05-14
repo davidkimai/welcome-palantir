@@ -9,12 +9,15 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
 ###  Model Interpretability & Attribution Mapping
+- [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
+- [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
+- [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
+- [Gemini QKOV Attributions](https://github.com/davidkimai/gemini-qkov-attributions)
+- [ChatGPT QKOV Attributions](https://github.com/davidkimai/chatgpt-qkov-attributions)
 - [Symbolic Interpretability](https://github.com/davidkimai/Symbolic-Interpretability)  
 - [Recursive Interpretability Core](https://github.com/davidkimai/Recursive-Interpretability-Core)  
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
-- [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
-- [Grok / Gemini / DeepSeek Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 
 ###  Safety, Benchmarking & Meta-Evaluation
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
@@ -62,7 +65,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 |----------|------------|
 | Attribution Testing | [qkov-cross-agent-testing](https://github.com/caspiankeyes/qkov-cross-agent-testing) |
 | Interoperable Language | [pareto-lang](https://github.com/caspiankeyes/pareto-lang) |
-| Cross-Agent Infrastructure | [universal-translator](https://github.com/davidkimai/universal-translator) |
+| Cross-Agent Infrastructure | [universal-translator](https://github.com/davidkimai/universal-translator),[universal-runtime](https://github.com/davidkimai/universal-runtime), [universal-developer](https://github.com/davidkimai/universal-developer)  |
 | Emergent Logs | [emergent-logs](https://github.com/caspiankeyes/emergent-logs) |
 | Frontier Evaluation Benchmarks | [Recursive-SWE-bench](https://github.com/davidkimai/Recursive-SWE-bench) |
 | Conference Field Mapping | [global-conference-archives](https://github.com/davidkimai/global-conference-archives) |
