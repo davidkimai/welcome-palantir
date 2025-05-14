@@ -62,7 +62,7 @@ This profile focuses on tooling, red-team frameworks, diagnostic pipelines, and 
 ##  Key Joint Repositories & Resources
 
 | Focus Area | Repository |
-|||
+|------------|------------|
 | Cross-Agent Testing | [qkov-cross-agent-testing](https://github.com/caspiankeyes/qkov-cross-agent-testing) |
 | Attributions Index | [Symbolic Interpretability](https://github.com/davidkimai/Symbolic-Interpretability) |
 | Infrastructure Modules | [pareto-lang](https://github.com/caspiankeyes/pareto-lang) |
