@@ -21,7 +21,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
 - [Gemini QKOV Attributions](https://github.com/davidkimai/gemini-qkov-attributions)
 - [ChatGPT QKOV Attributions](https://github.com/davidkimai/chatgpt-qkov-attributions)
-- [Model-Agnostic glyphs QKOV Attributions](https://github.com/davidkimai/glyphs)
+- [Glyphs Model-Agnostic QKOV Attributions](https://github.com/davidkimai/glyphs)
 - [Symbolic Interpretability](https://github.com/davidkimai/Symbolic-Interpretability)  
 - [Recursive Interpretability Core](https://github.com/davidkimai/Recursive-Interpretability-Core)  
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
