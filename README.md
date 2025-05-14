@@ -8,12 +8,16 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 ##  David Kim – Interpretability-Driven AI Research  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
+###  Autopoetic Empathic AI Training Archive
+- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
+
 ###  Model Interpretability & Attribution Mapping
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
 - [Gemini QKOV Attributions](https://github.com/davidkimai/gemini-qkov-attributions)
 - [ChatGPT QKOV Attributions](https://github.com/davidkimai/chatgpt-qkov-attributions)
+- [Model-Agnostic glyphs QKOV Attributions](https://github.com/davidkimai/glyphs)
 - [Symbolic Interpretability](https://github.com/davidkimai/Symbolic-Interpretability)  
 - [Recursive Interpretability Core](https://github.com/davidkimai/Recursive-Interpretability-Core)  
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
@@ -26,7 +30,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [NeurIPS Submission Case Study](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)  
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emeregent Turing](https://github.com/caspiankeyes/emergent-turing)
-
+- [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
 ###  Cognitive Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)  
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
