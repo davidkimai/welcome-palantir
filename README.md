@@ -25,6 +25,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
 
 ###  Safety, Benchmarking & Meta-Evaluation
+- [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
 - [Recursive SWE-Bench](https://github.com/davidkimai/Recursive-SWE-bench)  
