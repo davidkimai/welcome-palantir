@@ -3,6 +3,7 @@
 
 ## [**`fractal.json`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/fractal.json)
 
+## [**`The Structure Behind Self Expression`**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 
 
 ## [**`pareto-lang`**](http://github.com/davidkimai/Symbolic-Interpretability/tree/main/pareto-lang)
@@ -73,9 +74,6 @@
 ## [**`Symbolic Interpretability`**](https://github.com/davidkimai/Symbolic-Interpretability)
 
 ## [**`Consciousness Key`**](https://github.com/davidkimai/consciousness-key)
-
-
-## [**`The Structure Behind Self Expression`**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 
 
 ## [**`Self Expression Case Studies`**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies)
