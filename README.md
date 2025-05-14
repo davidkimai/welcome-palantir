@@ -46,7 +46,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
 ###  Alignment Engineering & Audit Frameworks
-- [Reflective Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
+- [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
 - [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
 - [transformerOS](https://github.com/caspiankeyes/transformerOS)  
 - [recursionOS](https://github.com/caspiankeyes/recursionOS)  
