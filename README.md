@@ -8,7 +8,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 ##  David Kim – Interpretability-Driven AI Research  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
-###  Autopoetic Empathic AI Training Archive
+###  Empathic AI Training Archive
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 
 ###  Model Interpretability & Attribution Mapping
