@@ -1,5 +1,5 @@
 # `Welcome Palantir!`
-## Introductory modules and organized repository guides for Palantir Researchers and Engineers. 
+##  Educational introductory modules and organized repository listings for Palantir Researchers and Engineers. 
 
 ## [**`fractal.json`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/fractal.json)
 
