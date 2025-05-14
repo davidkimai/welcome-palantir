@@ -1,5 +1,9 @@
 # `Welcome Palantir!`
-##  Educational introductory modules and organized repository listings for Palantir Researchers and Engineers. 
+##  Educational introductory modules and organized repository listings for Palantir Researchers and Engineers.
+
+
+## [**`qkov-cross-agent-testing`**](https://github.com/caspiankeyes/qkov-cross-agent-testing)
+
 
 ## [**`fractal.json`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/fractal.json)
 
@@ -12,10 +16,6 @@
 
 
 
-## [**`qkov-testing`**](https://github.com/caspiankeyes/qkov-cross-agent-testing)
-
-
-
 ## [**`schrodingers classifiers`**](https://github.com/davidkimai/Symbolic-Interpretability/tree/main/schrodingers-classifiers)
 
 ## [**`transformerOS`**](https://github.com/caspiankeyes/transformerOS)
@@ -24,7 +24,6 @@
 
 ## [**`recursionOS`**](https://github.com/caspiankeyes/recursionOS)
 
-## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/traffi)
 
 
 ## [**`NeurIPS Case Studies`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)
