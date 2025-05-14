@@ -1,4 +1,4 @@
-# `Welcome, Palantir`
+# Welcome, Palantir
 
 **Curated Repository Hub for Frontier Alignment & Interpretability Collaboration**
 
