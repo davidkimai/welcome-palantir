@@ -41,7 +41,7 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) 
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
-- [Consciousness Key](https://github.com/davidkimai/consciousness-key)
+- [Reflective Reasoning Key](https://github.com/davidkimai/reflective-reasoning-key)
 
 
 
