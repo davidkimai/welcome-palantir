@@ -9,7 +9,7 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 
 ##  David Kim – Forward Deployed Agent Evaluation & Mission-Ready Operating Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-### Empathic Agents Training Dataset
+### Operational Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
