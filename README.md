@@ -7,7 +7,7 @@ Welcome. This interface is built in alignment with Palantir’s core mission: to
 This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, and profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
 
 
-##  David Kim – Model Trust Interfaces & Mission-Ready Operating Systems
+##  David Kim – Forward Deployed Interpretability & Mission-Ready Operating Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
@@ -56,7 +56,7 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 - [Claude-Self-Audit-Proof](https://github.com/caspiankeyes/Claude-Self-Audit-Proof)  
 - [Claude-QKOV-Trace](https://github.com/caspiankeyes/Claude-QKOV-Trace)
 
-###  Red Teaming & Security Evaluation
+###  Red Teaming & Deployement Ready Security Evaluation
 - [AART: AI Adversarial Research Toolkit](https://github.com/caspiankeyes/AART-AI-Adversarial-Research-Toolkit)  
 - [AISecForge Framework](https://github.com/caspiankeyes/AISecForge-Advanced-AI-Security-Testing)  
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
