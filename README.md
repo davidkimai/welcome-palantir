@@ -7,7 +7,7 @@ Welcome. This interface is built in alignment with Palantir’s core mission: to
 This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, and profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
 
 
-##  David Kim – Model Trust Interfaces & Audit-Ready Reasoning Systems
+##  David Kim – Model Trust Interfaces & Mission-Ready Operating Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
@@ -15,7 +15,7 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
 - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
-###  Deployment-Ready Attribution Infrastructure
+###  Deployment Ready Attribution Infrastructures
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
@@ -36,15 +36,15 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
-###  Cognitive Structures & Thought Frameworks
-- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)  
+###  Operating System Structures & Thought Frameworks
+- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) 
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
 - [Consciousness Key](https://github.com/davidkimai/consciousness-key)
 
 
 
-##  Caspian Keyes – Deployed Engineering & Systems Design  
+##  Caspian Keyes – Deployment Engineering & Systems Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
 ###  Modular Orchestration & Operational Agent Tools
@@ -62,7 +62,7 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
 - [AEGIS Security Architecture](https://github.com/caspiankeyes/AEGIS)
 
-###  Institutional Risk Audit & Compliance Drift Models
+###  Institutional Mission Audits
 - [Epistemic Audit (Anthropic)](https://github.com/caspiankeyes/Epistemic-Audit-Anthropic-Case-Study)  
 - [Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)  
 - [Regulatory Misalignment (Anthropic)](https://github.com/caspiankeyes/Regulatory-Misalignment-Anthropic-Case-Study)  
