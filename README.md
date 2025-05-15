@@ -7,7 +7,7 @@ Welcome. This interface is built in alignment with Palantir’s core mission: to
 This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, and profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
 
 
-##  David Kim – Forward Deployed Interpretability & Mission-Ready Operating Systems
+##  David Kim – Forward Deployed Agent Evaluation & Mission-Ready Operating Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
