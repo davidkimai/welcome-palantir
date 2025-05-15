@@ -1,10 +1,13 @@
 # Welcome, Palantir
 
-**Curated Repository Hub for Frontier Alignment & Interpretability Collaboration**
+**Operational AI Infrastructure for Deployment, Alignment & Outcome Acceleration**
 
-Welcome to a joint repository index from two aligned GitHub profiles — each contributing unique value to operational safety engineering and interpretability-focused research at scale.
+Welcome. This interface is built in alignment with Palantir’s core mission: to embed AI at the heart of operations and deliver measurable business outcomes through system-level agent orchestration, outcome-based deployment, and secure integration.
 
-##  David Kim – Interpretability-Driven AI Research  
+This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, P&L-reflective, modular infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
+
+
+##  David Kim – Model Trust Interfaces & Audit-Ready Reasoning Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
@@ -12,7 +15,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
 - [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
-###  Model Interpretability & Attribution Mapping
+###  Deployment-Ready Attribution Infrastructure
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
@@ -24,7 +27,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
 - [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
 
-###  Safety, Benchmarking & Meta-Evaluation
+###  Safety & Benchmark Evaluation Systems
 - [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
@@ -41,10 +44,10 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 
 
-##  Caspian Keyes – Alignment Engineering & Systems Design  
+##  Caspian Keyes – Deployed Engineering & Systems Design  
 [**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
 
-###  Alignment Engineering & Audit Frameworks
+###  Modular Orchestration & Operational Agent Tools
 - [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
 - [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
 - [transformerOS](https://github.com/caspiankeyes/transformerOS)  
@@ -59,14 +62,14 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
 - [AEGIS Security Architecture](https://github.com/caspiankeyes/AEGIS)
 
-###  Institutional Research & Policy Case Studies
+###  Institutional Risk Audit & Compliance Drift Models
 - [Epistemic Audit (Anthropic)](https://github.com/caspiankeyes/Epistemic-Audit-Anthropic-Case-Study)  
 - [Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)  
 - [Regulatory Misalignment (Anthropic)](https://github.com/caspiankeyes/Regulatory-Misalignment-Anthropic-Case-Study)  
 - [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
 
-##  Shared Research Link Hubs
+##  Shared Tooling & Deployment-Ready Evaluation Suite
 
 | Category | Repository |
 |----------|------------|
@@ -79,22 +82,25 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 
 
-##  In Progress for Integration Teams
+##  n Progress: Turnkey Agents & Governance Foundation
 
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
 - [alignment-benchmark](https://github.com/caspiankeyes/alignment-benchmark)  
-- [Claude-Constitutional-Failures-Proofs](https://github.com/caspiankeyes/Claude-Constitutional-Failures-Proofs)  
-- [Claude-Interpretation-Mode-Map](https://github.com/caspiankeyes/Claude-Interpretation-Mode-Map)
 
 
-##  Collaboration, Contact & Review
+##  Contact
 
 For questions, context requests, or internal coordination:
 
 - **David Kim**: [recursive.davidkim@pm.me](mailto:recursive.davidkim@pm.me)  
 - **Caspian Keyes**: [via GitHub](https://github.com/caspiankeyes) or internal channels  
 
-We welcome Palantir researchers to explore, audit, and fork from this joint hub. Each repository is engineered to align with operational interpretability, adversarial resilience, and safe system design goals at scale.
+> Palantir is operationalizing enterprise-scale AI.
+>
+> 
+> This portal offers **deployment-aligned agents, orchestration interfaces, and field-traceable safety tooling**—engineered to reduce time-to-value, align with security requirements, and deliver outcome-linked returns.  
+>
+> **→ Designed for integration into C-suite directed, AI-first operational stacks.**
 
-**→ Let’s build a safer, more interpretable frontier together.**
+**Let’s move from prototype to profit, inspection to operation.**
