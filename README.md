@@ -4,7 +4,7 @@
 
 Welcome. This interface is built in alignment with Palantir’s core mission: to embed AI at the heart of operations and deliver measurable business outcomes through system-level agent orchestration, outcome-based deployment, and secure integration.
 
-This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
+This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, and profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
 
 
 ##  David Kim – Model Trust Interfaces & Audit-Ready Reasoning Systems
