@@ -6,7 +6,7 @@ Welcome to a joint repository index from two aligned GitHub profiles — each co
 
 ##  David Kim – Interpretability-Driven AI Research  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-### Autopoietic Empathic AI Training Archive
+### Empathic Agents Training Dataset
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
