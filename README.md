@@ -6,7 +6,6 @@ Welcome. This interface is built in alignment with Palantir’s core mission: to
 
 This repository maps two GitHub profiles—**David Kim** (model trust + attribution infrastructure) and **Caspian Keyes** (agent orchestration + red team alignment)—into a scalable, modular, and profitable infrastructure architecture, supporting Palantir’s AI-forward strategy in partnership with xAI and TWG Global.
 
-
 ##  David Kim – Production Agent Evaluation & Mission-Ready Interpretable Systems
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 ### Operational Agent Self-Evaluation Training Dataset
