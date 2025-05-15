@@ -93,8 +93,8 @@ This repository maps two GitHub profiles—**David Kim** (model trust + attribut
 
 For questions, context requests, or internal coordination:
 
-- **David Kim**: [recursive.davidkim@pm.me](mailto:recursive.davidkim@pm.me)  
-- **Caspian Keyes**: [via GitHub](https://github.com/caspiankeyes) or internal channels  
+- **David Kim**: [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
+- **Caspian Keyes**: [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)  
 
 > Palantir is operationalizing enterprise-scale AI.
 >
